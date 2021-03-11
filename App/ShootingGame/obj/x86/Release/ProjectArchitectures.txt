@@ -1,0 +1,2 @@
+C:\Users\af16002\Desktop\ShootingGame\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\af16002\Desktop\芝浦工業大学大学院_浅見優之介_作品提出用\App\ShootingGame\ShootingGame.csproj;x86

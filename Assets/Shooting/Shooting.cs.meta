@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bdbaf9382598ed54998045306fe173c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BulletLabel: {instanceID: 0}
+  - TargetLabel: {instanceID: 0}
+  - bullet: {fileID: 1685078304742272, guid: 5d5be29de2d88f94797781d205c6f7a5, type: 2}
+  - Target: {fileID: 1569297290403644, guid: 07fef5ed2535076488e135fdaadb4adc, type: 2}
+  - BulletCircle: {instanceID: 0}
+  - MixedRealityCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
