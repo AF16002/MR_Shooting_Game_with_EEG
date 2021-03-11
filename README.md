@@ -1,0 +1,2 @@
+# MR_Shooting_Game_with_EEG
+脳波を用いたMRシューティングゲーム
