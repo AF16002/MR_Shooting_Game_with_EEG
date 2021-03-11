@@ -6,4 +6,4 @@
 開発環境  
 Unity 2017.4.34f1  
 Visual Studio 2017  
-使用SDｋ:Mixed Reality Toolkit
+使用SDK:Mixed Reality Toolkit
